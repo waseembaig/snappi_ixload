@@ -8,7 +8,7 @@ class ethernet(object):
     - Lag to /lag
     Args
     ----
-    - ixnetworkapi (Api): instance of the Api class
+    - ixload (Api): instance of the Api class
     """
     
     def __init__(self, ixloadapi):
